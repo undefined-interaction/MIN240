@@ -18,5 +18,5 @@
 - z-index
 - opacity
 - color
-- filtr
+- filter
 - gradient
