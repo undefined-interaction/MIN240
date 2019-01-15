@@ -1,2 +1,4 @@
 # MIN240
-IntroductionToInteractiveMedia
+Introduction To Interactive Media 2019S
+
+## Course Objectives
