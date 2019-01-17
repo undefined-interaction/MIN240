@@ -1,5 +1,5 @@
 ## html basics
-
+- https://www.w3.org/TR/2012/WD-html-markup-20120320/syntax.html (4.3 elements)
 
 ## css basic syntax
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax
