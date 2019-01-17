@@ -1,6 +1,10 @@
 ## html basics
 
+
 ## css basic syntax
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 ## One page demo 1
 - margin
