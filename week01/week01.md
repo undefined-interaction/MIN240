@@ -7,8 +7,8 @@
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 ## One page demo 1
-- margin
 - div
+- margin vs. padding
 - id, #
 - background-color
 - width, height
