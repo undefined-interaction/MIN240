@@ -1,6 +1,5 @@
-[youtube]
-
-
+https://youtu.be/6akcfoJ05Aw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6akcfoJ05Aw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The video talks about the style, as storytelling - Your storytelling will be more powerful when you know the audience. Obviously, if your audience were pre-schooler, your voice/acting/visuals should be different to your full adult audience. The more complicated situation is when your storytelling deals with some physical constraints like if you talked in the part without a speaker, you need to shout, but you don’t need to shout if you talk by using a microphone. Your visuals too. If you need to show it on the 3:4 screen, your material prepared for 16:9 may not be shown properly. Therefore, understanding the context, or what kind of media you need to deal with to deliver your storytelling is an important issue. 
 From this background, there comes “responsive design” – it started with the distinction between when the webpage is shown on the screen versus when the webpage is printed. But it turns that the designers have to prepare more medium when it comes to various (mobile) (screen) media, in the different resolutions/ different pixel ratio/ different color index. In short, what you see on the screen of your working computer is not what you see when you test for the mobile phone. And people want to make it smarter by counting the medium type as a condition and provide the contents according to that condition.
