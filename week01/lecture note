@@ -1,6 +1,14 @@
 # Interface
 As a recap, html is for structure and css is for style. 
 
+## wireframe
 So, our first project is to think about the best way to fill the wall in the house.
+You have an idea that you want to decorate the wall with the frames. 
+But you don't have specific items what to display in the frames but want to layout how it would look like with different sized (dummy) frames.
 
-Today, we will design one-page website. And I would like to make with rectangles. 
+You will start the sketch - Let's say, you would have four rectanglar frames. How would you arrange them?
+
+
+## concept of div
+Today, we will design one-page website: one rectangle in the middle. 
+
