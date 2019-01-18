@@ -32,10 +32,9 @@
 - there will be your name and the course name somewhere.
 - there "can" be a short paragraph about you and/or your picture (or video, image)
 
-Start with your wireframe; for example, three contents and one title. Decide how to display information on the screen: <div>s the dimension + position + type of informaiton
+Start with your wireframe; for example, three contents and one title. Decide how to display information on the screen: div's dimension + position + type of informaiton
 
-
-Ruburics:
+### Ruburics:
 - Evidence of the wireframe (sketch screenshot/ picture/ link)
 - errorfree html + css syntax
 - multiple divs with id and demonstrate a proper usage of id(#) in css
