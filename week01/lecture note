@@ -1,14 +1,53 @@
-# Interface
-As a recap, html is for structure and css is for style. 
-
-## wireframe
-So, our first project is to think about the best way to fill the wall in the house.
-You have an idea that you want to decorate the wall with the frames. 
-But you don't have specific items what to display in the frames but want to layout how it would look like with different sized (dummy) frames.
-
-You will start the sketch - Let's say, you would have four rectanglar frames. How would you arrange them?
+[youtube]
 
 
-## concept of div
-Today, we will design one-page website: one rectangle in the middle. 
 
+The video talks about the style, as storytelling - Your storytelling will be more powerful when you know the audience. Obviously, if your audience were pre-schooler, your voice/acting/visuals should be different to your full adult audience. The more complicated situation is when your storytelling deals with some physical constraints like if you talked in the part without a speaker, you need to shout, but you don’t need to shout if you talk by using a microphone. Your visuals too. If you need to show it on the 3:4 screen, your material prepared for 16:9 may not be shown properly. Therefore, understanding the context, or what kind of media you need to deal with to deliver your storytelling is an important issue. 
+From this background, there comes “responsive design” – it started with the distinction between when the webpage is shown on the screen versus when the webpage is printed. But it turns that the designers have to prepare more medium when it comes to various (mobile) (screen) media, in the different resolutions/ different pixel ratio/ different color index. In short, what you see on the screen of your working computer is not what you see when you test for the mobile phone. And people want to make it smarter by counting the medium type as a condition and provide the contents according to that condition.
+There are a few solutions on how to implement the responsive design – we will cover some of them later on (ex. @media, bootstrap). But as a starting point, it is important to make your style ready to be responsive. It starts with the unit – make it relative.
+
+The simple way to make the webpage responsive is to define the unit with the viewport.
+
+https://www.w3schools.com/css/css_rwd_viewport.asp
+
+-- and you can use it as unit: 
+
+  vw (viewport width)
+  vh (viewport height)
+(and there are some other units you can use too: https://www.w3schools.com/css/css_units.asp)
+
+if you set something with
+
+  width: 100vw; 
+
+it will refer the current window size (= viewport, 100vw) as the width.
+
+same to 
+
+  height: 100vw;
+
+It is a bit different from the unit % which is referential to the parent's setting. if the element's parent has an absolute unit like px, % would refer that absolute value. 
+
+---
+
+<html>
+<style>
+body {
+width: 800px;
+height: 600px;
+}
+
+div {
+width: 100%;
+height: 100%;
+background-color: red;
+}
+</style>
+<body>
+<div> </div>
+</body>
+</html>
+
+---
+
+if you test the code above - the div will be always the same size of body (100% x 100%) and not responsive to the window size.
