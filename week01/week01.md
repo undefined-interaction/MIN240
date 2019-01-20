@@ -26,15 +26,15 @@
 - gradient
 
 ## Assignment1: portfolio site
-- create one-page responsive website that will display your works in MIN240
-- there will be "three" works you will link in the future
+- create one-page responsive website. 
+- there will be "three" works you will link - snowglobe, game, interactive video.
 - there "can" be three descriptive information (like caption) - of your choice
 - there will be your name and the course name somewhere.
 - there "can" be a short paragraph about you and/or your picture (or video, image)
 
 Start with your wireframe; for example, three contents and one title. Decide how to display information on the screen: div's dimension + position + type of informaiton
 
-### Ruburics:
+### Rubrics:
 - Evidence of the wireframe (sketch screenshot/ picture/ link)
 - errorfree html + css syntax
 - multiple divs with id and demonstrate a proper usage of id(#) in css
